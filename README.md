@@ -22,6 +22,12 @@ If you want an overview of the paper checkout:
 
 Install environment using `conda env create --file environment.yaml`. 
 
+To load environment in O2:
+```
+module load miniconda3/4.10.3
+conda activate selfsuper
+```
+
 To run, execute `python run.py`.
 
 ### Arguments - Command Line
